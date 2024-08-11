@@ -1,7 +1,7 @@
 # Unixbox
 A micro Unix-like environment for FreeDOS(WIP).
 
-# Compiling
+## Compiling
 
 On FreeDOS(requires C compiler and make from DJGPP, as it provides a POSIX development and runtime environment):
 
@@ -11,7 +11,7 @@ Specific commands can be individually compiled and run without the main Unixbox 
 
 make printf pwd
 
-# Usage
+## Usage
 
 At the DOS prompt:
 
